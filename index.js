@@ -18,7 +18,7 @@ app.post("/api/v1/pessoa", (req, res) => {
    }
     
   //cadastrar no banco
-  db.push({ id, cpf, email}) 
+  db.push({ id, cpf, email}) /api/v1/pessoa
   res.send ({ message: "Pessoa criada com sucesso"})
 })
 //R
