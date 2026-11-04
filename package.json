@@ -16,7 +16,7 @@
   "main": "exemplo.js",
   "scripts": {
     "test": "jest",
-    "dev": "node --watch index2.js"
+    "dev": "node --watch index3.js"
   },
   "dependencies": {
     "express": "^5.3.0"
