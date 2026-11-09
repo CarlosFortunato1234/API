@@ -1,5 +1,5 @@
 {
-  "name":"API",
+  "name": "api",
   "version": "1.0.0",
   "description": "Minha primeira API",
   "homepage": "https://github.com/CarlosFortunato1234/API#readme",
@@ -13,9 +13,8 @@
   "license": "ISC",
   "author": "Carlos Daniel",
   "type": "module",
-  "main": "exemplo.js",
+  "main": "index.js",
   "scripts": {
-    "test": "jest",
     "dev": "node --watch index.js"
   },
   "dependencies": {
